@@ -1,3 +1,16 @@
-main div { width: 43%; display: inline-block; }
+@charset "UTF-8";
 
-img { width: 100%; }
+.text{
+  text-align: center;
+}
+
+.marketplace {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+img{
+  margin: 0 auto;
+  width: 200px;
+}
