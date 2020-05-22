@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="559.66" height="582.64" viewBox="0 0 559.66 582.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8719ce;
+      }
+
+      .cls-2 {
+        font-size: 96px;
+        font-family: Midnight-Coffee-Light, Midnight Coffee Light;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.21em;
+      }
+    </style>
+  </defs>
+  <title>icon</title>
+  <g>
+    <circle class="cls-1" cx="279.83" cy="279.83" r="279.83"/>
+    <text class="cls-2" transform="translate(59.12 224)">whole<tspan x="24.62" y="115.2">l</tspan><tspan class="cls-3" x="97.77" y="115.2">o</tspan><tspan x="185.13" y="115.2">t</tspan><tspan class="cls-4" x="265.1" y="115.2">t</tspan><tspan x="325.1" y="115.2">a</tspan><tspan x="44.88" y="230.4">icons</tspan></text>
+  </g>
+</svg>
