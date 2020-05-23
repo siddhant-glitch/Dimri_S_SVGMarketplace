@@ -17,6 +17,7 @@ body{
   justify-content: space-between;
   flex-wrap: wrap;
   background-color: #A0D2DB;
+  margin-bottom: 50px;
 }
 
 .left_side{
@@ -49,6 +50,18 @@ a{
   text-decoration: none;
 }
 
+p{
+  width: 200px;
+  text-align: center;
+}
+.info{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+}
+
 a:hover{
   color: #A0D2DB;
   background-color: #8719ce;
@@ -72,6 +85,9 @@ svg{
   fill: #8719ce;
 }
 
+#buy:hover{
+  fill:#8719ce;
+}
 
 
 .footer{
